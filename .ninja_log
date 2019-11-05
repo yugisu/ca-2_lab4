@@ -1,0 +1,7 @@
+# ninja log v5
+2	1016	1572944237	CMakeFiles/hello.dir/src/hello.cpp.o	d3f68ca4c5974174
+0	1024	1572944237	CMakeFiles/main.dir/src/main.cpp.o	7bf31aea83371095
+1017	1152	1572944237	libhello.a	417e02673b3d2bab
+1025	1184	1572944237	CMakeFiles/calculator.dir/src/calculator.cpp.o	23fc10d6da475fa2
+1184	1284	1572944237	libcalculator.a	3dc77348f739d231
+1284	1660	1572944237	main	61724527ae3734fa
